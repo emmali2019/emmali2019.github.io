@@ -10,7 +10,7 @@ baseurl: '/'
 email: 'emma.fa.li@outlook.com'
 google_analytics: ''
 disqus: ''
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+sharethis: '<script async src="//platform-api.sharethis.com/js/sharethis.js#property=5ca048496f05b20011c6d81e&product="sticky-share-buttons"></script>'
 
 # Authors
 authors:
@@ -22,7 +22,7 @@ authors:
     web: https://emmali2019.github.io/
     twitter: https://twitter.com/emmali2019
     description: "Author of all stories."
-    
+
 # Plugins
 plugins:
   - jekyll-paginate
