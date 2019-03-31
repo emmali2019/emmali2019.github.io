@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
 email: 'emma.fa.li@outlook.com'
-google_analytics: ''
+google_analytics: 'UA-137360977-1'
 disqus: ''
 sharethis: '<script async src="//platform-api.sharethis.com/js/sharethis.js#property=5ca048496f05b20011c6d81e&product="sticky-share-buttons"></script>'
 
