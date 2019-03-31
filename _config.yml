@@ -1,0 +1,44 @@
+# Site
+name: "Emma's Website"
+title: "Emma's Website"
+description: "Emma's Website for Stories"
+meta_description: "Emma's Website for Stories"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'emma.fa.li@outlook.com'
+google_analytics: ''
+disqus: ''
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  emma:
+    name: Emma
+    display_name: Emma
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: emma.fa.li@outlook.com
+    web: https://emmali2019.github.io/
+    twitter: https://twitter.com/emmali2019
+    description: "Author of all stories."
+    
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
