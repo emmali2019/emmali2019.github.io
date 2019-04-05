@@ -79,3 +79,5 @@ When she moved one step, someone was hugging her! It was her friend!!
 ![page16]({{ site.baseurl }}/assets/images/story1/17.png)
 `Bye-bye!`, said her friend.
 ---
+
+</span>
