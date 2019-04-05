@@ -41,52 +41,44 @@ and it said `Come In!`. So she went inside.
 
 ![page7]({{ site.baseurl }}/assets/images/story1/8.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-When she went inside, no body was there. So she thinks she needs to go home.
-
+When she went inside, no body was there. So she thinks she needs to go home.<br/>
 When she moved one step, someone was hugging her! It was her friend!!
 </span>
 
 ![page8]({{ site.baseurl }}/assets/images/story1/9.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-`You are here!`, said her friend. `Let's go in!`
-
+`You are here!`, said her friend. `Let's go in!`<br/>
 `OK!`, said owl.
 </span>
 
 ![page9]({{ site.baseurl }}/assets/images/story1/10.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-`Can we draw?`, said owl.
-
+`Can we draw?`, said owl.<br/>
 `Of course!`, said her friend.
 </span>
 
 ![page10]({{ site.baseurl }}/assets/images/story1/11.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
 `Where is the paper?`, asked owl.
-
 `It's in my bedroom.`, replied her friend.
 </span>
 
 ![page11]({{ site.baseurl }}/assets/images/story1/12.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-`I got it!`, said owl.
-
+`I got it!`, said owl.<br/>
 `Let's draw!`, said her friend.
 </span>
 
 ![page12]({{ site.baseurl }}/assets/images/story1/13.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-`I'm done!`, said owl.
-
+`I'm done!`, said owl.<br/>
 `I'm too!`, said her friend.
 </span>
 
 ![page13]({{ site.baseurl }}/assets/images/story1/14.png)
 <span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 2em;">
-`Let's eat some donuts.`, said her friend.
-
-`OK!`, said owl, `Wait! I ate donuts with my sister.`
-
+`Let's eat some donuts.`, said her friend.<br/>
+`OK!`, said owl, `Wait! I ate donuts with my sister.`<br/>
 `You got to eat more donuts!`, said her friend.
 </span>
 
