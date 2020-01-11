@@ -2,10 +2,13 @@
 layout: post
 title:  "Owl has a playdate with her friend"
 categories: [ Story, Picture Book ]
+author: emma
 image: assets/images/story1/1.png
 featured: true
 ---
 
+
+I wrote this story "Owl has a playdate with her friend" because I love owl! Please enjoy this short story.
 
 
 ![page1]({{ site.baseurl }}/assets/images/story1/2.png)
