@@ -3,7 +3,7 @@ layout: post
 title:  "I like Jane Goodall"
 author: emma
 categories: [ Story ]
-image: assets/images/jane.jpg
+image: assets/images/jane.JPG
 ---
 
 -- by Emma Li
